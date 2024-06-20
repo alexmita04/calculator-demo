@@ -1,0 +1,2 @@
+prima oara hai sa fac niste functii simple care fac adunarea, scaderea, inmultirea, si impartirea si
+ca parametrii sa aiba 2 numere;
